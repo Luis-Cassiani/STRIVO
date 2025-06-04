@@ -529,7 +529,7 @@ const products = [
         name: "Balón de Fútbol Profesional",
         category: "futbol",
         price: 159900,
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlXp7mN00chUSPWQ22jI1Edg2-QdttwKxOVA&s",
+        image: "./https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlXp7mN00chUSPWQ22jI1Edg2-QdttwKxOVA&s",
         description: "Balón de fútbol profesional con tecnología de alta precisión. Diseñado para un mejor control, precisión y durabilidad. Aprobado para competiciones oficiales."
     },
     {
@@ -537,7 +537,7 @@ const products = [
         name: "Camiseta Running Dri-Fit",
         category: "running",
         price: 89900,
-        image: "https://tennisworldcolombia.com/wp-content/uploads/2023/10/Diseno-sin-titulo-11-1-1.png",
+        image: "./https://tennisworldcolombia.com/wp-content/uploads/2023/10/Diseno-sin-titulo-11-1-1.png",
         description: "Camiseta técnica con tecnología de absorción de humedad para mantener la piel seca durante tus entrenamientos. Material ligero y transpirable con protección UV."
     },
     {
@@ -545,7 +545,7 @@ const products = [
         name: "Zapatillas Baloncesto Pro Jump",
         category: "baloncesto",
         price: 329900,
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn0d4aVOLrxMs-HZ_AyKEo1VjNw3E-y6mMoQ&s",
+        image: "./https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn0d4aVOLrxMs-HZ_AyKEo1VjNw3E-y6mMoQ&s",
         description: "Zapatillas de baloncesto con amortiguación premium y soporte para el tobillo. Suela de alta tracción para movimientos rápidos en la cancha."
     },
     {
@@ -553,7 +553,7 @@ const products = [
         name: "Conjunto Entrenamiento Elite",
         category: "entrenamiento",
         price: 245900,
-        image: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5cbd8cca-a56b-49d7-8243-6246c3988451/M+NK+STRK%2B+TRK+SUIT+K.png",
+        image: "./https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5cbd8cca-a56b-49d7-8243-6246c3988451/M+NK+STRK%2B+TRK+SUIT+K.png",
         description: "Conjunto de entrenamiento completo con chaqueta y pantalón. Material elástico de alta calidad para máxima libertad de movimiento durante cualquier actividad física."
     },
     {
@@ -561,7 +561,7 @@ const products = [
         name: "Guantes de Portero Pro Grip",
         category: "futbol",
         price: 124900,
-        image: "https://www.futbolemotion.com/imagesarticulos/203345/grandes/guante-nike-mercurial-vapor-grip-3-profesional-20cm-black-0.webp",
+        image: "./https://www.futbolemotion.com/imagesarticulos/203345/grandes/guante-nike-mercurial-vapor-grip-3-profesional-20cm-black-0.webp",
         description: "Guantes de portero profesionales con tecnología de agarre superior. Protección para los dedos y palma reforzada para una mayor durabilidad y confort."
     },
     {
@@ -569,7 +569,7 @@ const products = [
         name: "Pelota de Baloncesto Grip Master",
         category: "baloncesto",
         price: 119900,
-        image: "https://images.pexels.com/photos/945471/pexels-photo-945471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "./https://images.pexels.com/photos/945471/pexels-photo-945471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         description: "Pelota de baloncesto con superficie de agarre superior. Diseñada para uso tanto en interiores como exteriores. Construcción duradera y rendimiento consistente."
     },
     {
@@ -577,7 +577,7 @@ const products = [
         name: "Zapatillas Running Cloud Ultra",
         category: "running",
         price: 289900,
-        image: "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "./https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         description: "Zapatillas de running con tecnología de amortiguación avanzada. Diseñadas para distancias largas con máximo confort y retorno de energía."
     },
     {
@@ -585,7 +585,7 @@ const products = [
         name: "Kit de Pesas Ajustables",
         category: "entrenamiento",
         price: 349900,
-        image: "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "./https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         description: "Kit completo de pesas ajustables para entrenamiento en casa. Incluye mancuernas ajustables de 2.5kg a 25kg cada una, perfecto para todo tipo de ejercicios."
     },
     {
@@ -593,7 +593,7 @@ const products = [
         name: "Chaqueta Impermeable Trail Run",
         category: "running",
         price: 219900,
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfwrTRCk4m1oDP7TlfcVXSRK7D9rTFr2LGDQ&s",
+        image: "./https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfwrTRCk4m1oDP7TlfcVXSRK7D9rTFr2LGDQ&s",
         description: "Chaqueta impermeable y transpirable perfecta para running en condiciones adversas. Cuenta con costuras selladas y tejido resistente al agua de 10k."
     },
     {
@@ -601,7 +601,7 @@ const products = [
         name: "Jersey Oficial Equipo chelsea",
         category: "futbol",
         price: 199900,
-        image: "https://media.foot-store.es/catalog/product/cache/small_image/318x/9df78eab33525d08d6e5fb8d27136e95/n/i/nike_fn8760-496-phsfh001-nw091924.jpg",
+        image: "./https://media.foot-store.es/catalog/product/cache/small_image/318x/9df78eab33525d08d6e5fb8d27136e95/n/i/nike_fn8760-496-phsfh001-nw091924.jpg",
         description: "Jersey oficial de la selección nacional. Diseño actual con tecnología de ventilación avanzada. Material premium con escudo bordado."
     },
     {
@@ -609,7 +609,7 @@ const products = [
         name: "Banda de Resistencia Pro Kit",
         category: "entrenamiento",
         price: 129900,
-        image: "https://m.media-amazon.com/images/I/51hiz1xnMBL._AC_UF1000,1000_QL80_.jpg",
+        image: "./https://m.media-amazon.com/images/I/51hiz1xnMBL._AC_UF1000,1000_QL80_.jpg",
         description: "Kit completo de bandas de resistencia con diferentes niveles de tensión. Incluye accesorios para fijar a puertas y manual de ejercicios."
     },
     {
@@ -617,7 +617,7 @@ const products = [
         name: "Canasta de Baloncesto Portátil",
         category: "baloncesto",
         price: 749900,
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTghQO_4H6umXdj9Dz63t3VQUMRMTdO8gd1DQ&s",
+        image: "./https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTghQO_4H6umXdj9Dz63t3VQUMRMTdO8gd1DQ&s",
         description: "Canasta de baloncesto portátil y ajustable en altura. Base resistente con capacidad para agua o arena. Fácil de transportar con ruedas integradas."
     }
 ];
